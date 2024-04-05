@@ -35,8 +35,11 @@ char ch;
 int ctr;
 int item;
 
-do {
+do{
 	cout << "\nEnter the element you want to search: ";
 	cin >> item;
+
+	
+	
 
 }
