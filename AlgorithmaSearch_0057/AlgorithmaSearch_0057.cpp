@@ -43,6 +43,10 @@ do{
 	i = 0;
 
 	while (i < n) {
+		ctr++;
+		if (arr[i] == item) {
+
+		}
 
 	}
 	
